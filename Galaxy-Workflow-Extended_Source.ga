@@ -33,7 +33,13 @@
             "type": "parameter_input",
             "uuid": "46c326e3-402d-48a0-9b86-02f06c1cd462",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "e99c8032-fe1a-4f43-979d-7fc825b2987f"
+                }
+            ]
         },
         "1": {
             "annotation": "Source RA",
@@ -60,7 +66,13 @@
             "type": "parameter_input",
             "uuid": "02790d04-1ea5-4316-b668-c5da5d452a7b",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "3d4dd69f-dfca-4dec-9b11-430bf289aa35"
+                }
+            ]
         },
         "2": {
             "annotation": "Maximal angular distance from center in degrees",
@@ -87,7 +99,13 @@
             "type": "parameter_input",
             "uuid": "87109ed2-6b2d-47a6-b12d-9f4a0dd0c87f",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "a9b3c956-09be-4816-9c15-17570103087f"
+                }
+            ]
         },
         "3": {
             "annotation": "Minimal angular distance from center in degrees",
@@ -114,7 +132,13 @@
             "type": "parameter_input",
             "uuid": "805f4683-e6c2-4746-8b16-67f10a18f3f0",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "9cc4f1e2-0bd4-4a65-b001-0816036d8d23"
+                }
+            ]
         },
         "4": {
             "annotation": "source redshift",
@@ -141,7 +165,13 @@
             "type": "parameter_input",
             "uuid": "b110f4b2-4214-448b-a991-85f89b656389",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "0f611dd3-7b07-4d0b-b0b2-21eac0a09324"
+                }
+            ]
         },
         "5": {
             "annotation": "number of particles to simulate",
@@ -168,7 +198,13 @@
             "type": "parameter_input",
             "uuid": "c2344b32-61cc-48ff-83cc-1c33d45c0e10",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "8a824d6a-a9cb-4316-9096-57246d9214f1"
+                }
+            ]
         },
         "6": {
             "annotation": "",
@@ -195,7 +231,13 @@
             "type": "parameter_input",
             "uuid": "ff9a1c59-4f42-43e9-a4bc-7bee42fd81f5",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "a2598c16-f136-490e-b91f-53af9898f9bb"
+                }
+            ]
         },
         "7": {
             "annotation": "maximal initial energy  [TeV]",
@@ -222,7 +264,13 @@
             "type": "parameter_input",
             "uuid": "b03c7962-5c2a-4188-8dde-6c91e6caccd0",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "d5071265-4f41-4a88-99be-eb35e473b034"
+                }
+            ]
         },
         "8": {
             "annotation": "minimal energy of secondary photons  [TeV]",
@@ -249,7 +297,13 @@
             "type": "parameter_input",
             "uuid": "44915ba4-effe-499a-9cf7-8fef546077db",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "f7b15106-d736-41e0-9c66-f7af8e0db4e6"
+                }
+            ]
         },
         "9": {
             "annotation": "minimal source energy [TeV]",
@@ -276,7 +330,13 @@
             "type": "parameter_input",
             "uuid": "bf57f0e8-8b80-415e-9f4a-7fe9ad68694d",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "4cb03889-0be7-4503-8b7f-7e5e476289a9"
+                }
+            ]
         },
         "10": {
             "annotation": "intrinsic spectrum slope",
@@ -303,7 +363,13 @@
             "type": "parameter_input",
             "uuid": "e682e6a0-0f53-40b0-9fc2-6c47f7987d31",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "875a1e16-d7b5-4dd2-aa95-7d348c2de2dc"
+                }
+            ]
         },
         "11": {
             "annotation": "intergalactic magnetic field amplitude  [fG]",
@@ -330,7 +396,13 @@
             "type": "parameter_input",
             "uuid": "689f8ebe-c2da-4809-ada2-db78a7169868",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "60f808a8-4fa9-4a31-81dd-3acf751019cd"
+                }
+            ]
         },
         "12": {
             "annotation": "Maximal turbulent IGMF scale [Mpc]",
@@ -357,14 +429,57 @@
             "type": "parameter_input",
             "uuid": "3f24bca1-123f-433d-bfe5-4d32b092c87f",
             "when": null,
-            "workflow_outputs": []
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "0dd18ced-929a-4bf3-b771-907f34db5a47"
+                }
+            ]
         },
         "13": {
             "annotation": "",
-            "content_id": "toolshed.g2.bx.psu.edu/repos/astroteam/crbeam_astro_tool/crbeam_astro_tool/0.0.2+galaxy0",
+            "content_id": null,
             "errors": null,
             "id": 13,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "EBL"
+                }
+            ],
+            "label": "EBL",
+            "name": "Input parameter",
+            "outputs": [],
+            "position": {
+                "left": 0.6631400283263209,
+                "top": 1248.78376249368
+            },
+            "tool_id": null,
+            "tool_state": "{\"multiple\": false, \"validators\": [], \"restrictOnConnections\": true, \"parameter_type\": \"text\", \"optional\": false}",
+            "tool_version": null,
+            "type": "parameter_input",
+            "uuid": "8fc83036-88ee-4512-be8c-c93a206aa1b2",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "output",
+                    "uuid": "19bbb2aa-4178-422d-b959-9fab97cc1f92"
+                }
+            ]
+        },
+        "14": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/astroteam/crbeam_astro_tool/crbeam_astro_tool/0.0.2+galaxy0",
+            "errors": null,
+            "id": 14,
             "input_connections": {
+                "C_data_product_|EBL": {
+                    "id": 13,
+                    "output_name": "output"
+                },
                 "C_data_product_|EGMF_fG": {
                     "id": 11,
                     "output_name": "output"
@@ -438,6 +553,10 @@
                 {
                     "description": "runtime parameter for tool CRbeam",
                     "name": "C_data_product_"
+                },
+                {
+                    "description": "runtime parameter for tool CRbeam",
+                    "name": "C_data_product_"
                 }
             ],
             "label": null,
@@ -468,21 +587,21 @@
                 "owner": "astroteam",
                 "tool_shed": "toolshed.g2.bx.psu.edu"
             },
-            "tool_state": "{\"C_data_product_\": {\"DPselector_\": \"Generate_events\", \"__current_case__\": 0, \"src_name\": \"1ES 1215+303\", \"z_start\": {\"__class__\": \"ConnectedValue\"}, \"Npart\": {\"__class__\": \"ConnectedValue\"}, \"particle_type\": {\"__class__\": \"ConnectedValue\"}, \"Emax\": {\"__class__\": \"ConnectedValue\"}, \"Emin\": {\"__class__\": \"ConnectedValue\"}, \"EminSource\": {\"__class__\": \"ConnectedValue\"}, \"Gamma\": {\"__class__\": \"ConnectedValue\"}, \"EGMF_fG\": {\"__class__\": \"ConnectedValue\"}, \"lmaxEGMF_Mpc\": {\"__class__\": \"ConnectedValue\"}, \"jet_half_size\": \"180.0\", \"jet_direction\": \"0.0\", \"psf\": \"180.0\", \"window_size_RA\": \"4.0\", \"window_size_DEC\": \"4.0\", \"EBL\": \"Franceschini 2017\"}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_state": "{\"C_data_product_\": {\"DPselector_\": \"Generate_events\", \"__current_case__\": 0, \"src_name\": \"1ES 1215+303\", \"z_start\": {\"__class__\": \"ConnectedValue\"}, \"Npart\": {\"__class__\": \"ConnectedValue\"}, \"particle_type\": {\"__class__\": \"ConnectedValue\"}, \"Emax\": {\"__class__\": \"ConnectedValue\"}, \"Emin\": {\"__class__\": \"ConnectedValue\"}, \"EminSource\": {\"__class__\": \"ConnectedValue\"}, \"Gamma\": {\"__class__\": \"ConnectedValue\"}, \"EGMF_fG\": {\"__class__\": \"ConnectedValue\"}, \"lmaxEGMF_Mpc\": {\"__class__\": \"ConnectedValue\"}, \"jet_half_size\": \"180.0\", \"jet_direction\": \"0.0\", \"psf\": \"180.0\", \"window_size_RA\": \"4.0\", \"window_size_DEC\": \"4.0\", \"EBL\": {\"__class__\": \"ConnectedValue\"}}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
             "tool_version": "0.0.2+galaxy0",
             "type": "tool",
             "uuid": "4667cc77-dc7a-4f03-93a5-295637fd30b1",
             "when": null,
             "workflow_outputs": []
         },
-        "14": {
+        "15": {
             "annotation": "",
             "content_id": "toolshed.g2.bx.psu.edu/repos/astroteam/astropy_fits2csv/astropy_fits2csv/0.1.0+galaxy0",
             "errors": null,
-            "id": 14,
+            "id": 15,
             "input_connections": {
                 "input_fits": {
-                    "id": 13,
+                    "id": 14,
                     "output_name": "out_Generate_events_Event_file"
                 }
             },
@@ -520,14 +639,14 @@
                 }
             ]
         },
-        "15": {
+        "16": {
             "annotation": "",
             "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_awk_tool/9.3+galaxy1",
             "errors": null,
-            "id": 15,
+            "id": 16,
             "input_connections": {
                 "infile": {
-                    "id": 14,
+                    "id": 15,
                     "output_name": "output"
                 }
             },
@@ -559,14 +678,14 @@
             "when": null,
             "workflow_outputs": []
         },
-        "16": {
+        "17": {
             "annotation": "",
             "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_awk_tool/9.3+galaxy1",
             "errors": null,
-            "id": 16,
+            "id": 17,
             "input_connections": {
                 "infile": {
-                    "id": 14,
+                    "id": 15,
                     "output_name": "output"
                 }
             },
@@ -598,18 +717,18 @@
             "when": null,
             "workflow_outputs": []
         },
-        "17": {
+        "18": {
             "annotation": "",
             "content_id": "addValue",
             "errors": null,
-            "id": 17,
+            "id": 18,
             "input_connections": {
                 "exp": {
                     "id": 3,
                     "output_name": "output"
                 },
                 "input": {
-                    "id": 15,
+                    "id": 16,
                     "output_name": "outfile"
                 }
             },
@@ -635,14 +754,14 @@
             "when": null,
             "workflow_outputs": []
         },
-        "18": {
+        "19": {
             "annotation": "",
             "content_id": "toolshed.g2.bx.psu.edu/repos/astroteam/plot_tools_astro_tool/plot_tools_astro_tool/0.0.1+galaxy0",
             "errors": null,
-            "id": 18,
+            "id": 19,
             "input_connections": {
                 "C_data_product_|fn": {
-                    "id": 16,
+                    "id": 17,
                     "output_name": "outfile"
                 }
             },
@@ -683,29 +802,29 @@
             "when": null,
             "workflow_outputs": [
                 {
-                    "label": "prim_spectrum_plot",
-                    "output_name": "out_spectrum_histogram_picture",
-                    "uuid": "edaa3d27-02dc-4f39-ba9f-0dfed01ec130"
-                },
-                {
                     "label": "prim_spectrum_data",
                     "output_name": "out_spectrum_histogram_data",
                     "uuid": "3eb5e31c-712d-4e43-85a3-a4b0508bb8a3"
+                },
+                {
+                    "label": "prim_spectrum_plot",
+                    "output_name": "out_spectrum_histogram_picture",
+                    "uuid": "edaa3d27-02dc-4f39-ba9f-0dfed01ec130"
                 }
             ]
         },
-        "19": {
+        "20": {
             "annotation": "",
             "content_id": "addValue",
             "errors": null,
-            "id": 19,
+            "id": 20,
             "input_connections": {
                 "exp": {
                     "id": 2,
                     "output_name": "output"
                 },
                 "input": {
-                    "id": 17,
+                    "id": 18,
                     "output_name": "out_file1"
                 }
             },
@@ -731,14 +850,14 @@
             "when": null,
             "workflow_outputs": []
         },
-        "20": {
+        "21": {
             "annotation": "",
             "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_awk_tool/9.3+galaxy1",
             "errors": null,
-            "id": 20,
+            "id": 21,
             "input_connections": {
                 "infile": {
-                    "id": 19,
+                    "id": 20,
                     "output_name": "out_file1"
                 }
             },
@@ -770,18 +889,18 @@
             "when": null,
             "workflow_outputs": []
         },
-        "21": {
+        "22": {
             "annotation": "",
             "content_id": "addValue",
             "errors": null,
-            "id": 21,
+            "id": 22,
             "input_connections": {
                 "exp": {
                     "id": 1,
                     "output_name": "output"
                 },
                 "input": {
-                    "id": 20,
+                    "id": 21,
                     "output_name": "outfile"
                 }
             },
@@ -807,14 +926,14 @@
             "when": null,
             "workflow_outputs": []
         },
-        "22": {
+        "23": {
             "annotation": "",
             "content_id": "toolshed.g2.bx.psu.edu/repos/astroteam/plot_tools_astro_tool/plot_tools_astro_tool/0.0.1+galaxy0",
             "errors": null,
-            "id": 22,
+            "id": 23,
             "input_connections": {
                 "C_data_product_|fn": {
-                    "id": 20,
+                    "id": 21,
                     "output_name": "outfile"
                 }
             },
@@ -866,18 +985,18 @@
                 }
             ]
         },
-        "23": {
+        "24": {
             "annotation": "",
             "content_id": "addValue",
             "errors": null,
-            "id": 23,
+            "id": 24,
             "input_connections": {
                 "exp": {
                     "id": 0,
                     "output_name": "output"
                 },
                 "input": {
-                    "id": 21,
+                    "id": 22,
                     "output_name": "out_file1"
                 }
             },
@@ -903,14 +1022,14 @@
             "when": null,
             "workflow_outputs": []
         },
-        "24": {
+        "25": {
             "annotation": "Calculate RA and Dec for every event",
             "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_awk_tool/9.3+galaxy1",
             "errors": null,
-            "id": 24,
+            "id": 25,
             "input_connections": {
                 "infile": {
-                    "id": 23,
+                    "id": 24,
                     "output_name": "out_file1"
                 }
             },
@@ -942,14 +1061,14 @@
             "when": null,
             "workflow_outputs": []
         },
-        "25": {
+        "26": {
             "annotation": "",
             "content_id": "toolshed.g2.bx.psu.edu/repos/astroteam/plot_tools_astro_tool/plot_tools_astro_tool/0.0.1+galaxy0",
             "errors": null,
-            "id": 25,
+            "id": 26,
             "input_connections": {
                 "C_data_product_|fn": {
-                    "id": 24,
+                    "id": 25,
                     "output_name": "outfile"
                 }
             },
@@ -1003,6 +1122,6 @@
         }
     },
     "tags": [],
-    "uuid": "5371c340-dfc3-40ad-8c9e-1a5375fc97fa",
-    "version": 8
+    "uuid": "fb470fe4-bdcd-4f82-ad92-1ed2f03a3016",
+    "version": 9
 }
